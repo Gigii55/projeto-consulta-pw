@@ -2,7 +2,7 @@
 
 O arquivo **`.env`** é utilizado para armazenar variáveis de ambiente que podem mudar dependendo da configuração do projeto.
 
-Por exemplo 2, em vez de colocar diretamente a URL da API no código:
+Por exemplo asdasa2, em vez de colocar diretamente a URL da API no código:
 
 ```jsx
 axios.get("http://localhost:8080/api/livros");
